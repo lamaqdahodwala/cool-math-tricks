@@ -25,3 +25,19 @@ button:hover{
 #answeris5btn{
     font-size: larger;
 }
+
+body {
+    background-color: grey;
+}
+
+p {
+    color: white;
+}
+
+h1, h2, h3, h4, h5 {
+    color: white;
+}
+
+label {
+    color: white;
+}
